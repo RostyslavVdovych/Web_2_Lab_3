@@ -1,0 +1,6 @@
+[
+  {"username":"Name1","password":"123","age":34, "qwe": 1},
+  {"username":"Name2","password":"124","age":38, "qwe": 1},
+  {"username":"Name3","password":"125","age":41, "qwe": 4},
+  {"username":"Name4","password":"126","age":28, "qwe": 5}
+]
